@@ -1,8 +1,8 @@
-# AngularApp
+# Angular 1 With Require Js
 
 Hey Guys,
 
-I am creating this application to build a simple examples of AngularJs.
+This is angular 1 application with require js integration. 
 
 Thanks,
 Pankaj Kumar Dewangan <br>
